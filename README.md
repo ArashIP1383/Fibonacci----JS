@@ -1,3 +1,5 @@
 # Fibonancci -- JS
  <h1>Fibonancci JS function</h1>
- This is a simple Javs Script Fibonancci number generator.
+ <p>This is a simple Javs Script Fibonancci number generator.
+ It can make infinite fibonancci numbers as soon as make the <code>while(false)</code>
+</p>
