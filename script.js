@@ -1,5 +1,4 @@
 
-const container = document.getElementById('container')
 let index = 0
 let resultmain = []
 
@@ -8,11 +7,11 @@ const timer = ms => new Promise(res => setTimeout(res,ms))
 fibo();
 
 function creator(i,result){
-    let bb = document.createElement('span')
-    let nn = `<span id="blew" >${i}</span>`
-    bb.setAttribute('id','logger')
-    container.appendChild(bb)
-    bb.innerHTML = "F" + nn + " = " + result
+    let span = document.createElement('span')
+    let under = `<span id="blew" >${i}</span>`
+    span.setAttribute('id','logger')
+    document.body.appendChild(span)
+    span.innerHTML = "F" + under + " = " + result
 }
 
 
@@ -36,4 +35,3 @@ async function fibo(){
         fibo()
     }
 }
-
