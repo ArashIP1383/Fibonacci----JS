@@ -6,5 +6,5 @@
  
  
  
- <h3>I hope you enjoy it and don't forget to submit new issue if it has any issue. &#128525;</h3> 
+ <h3>This is my first public script &#9996; . I hope you enjoy it and don't forget to submit new issue if it has any issue. &#128525;</h3> 
 </p>
