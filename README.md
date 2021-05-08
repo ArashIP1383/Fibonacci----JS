@@ -6,5 +6,5 @@
  
  
  
- <h2>I hope you enjoy it and don't forget to 
+ <h2>I hope you enjoy it and don't forget to submit new issue if it has any issue.</h2> 
 </p>
